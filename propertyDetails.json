@@ -9,7 +9,7 @@
       "area": "2500 sq ft",
       "location": "Suburban Neighborhood",
       "facilities": ["living room", "backyard", "garage"],
-      "image": "https://i.ibb.co/R7zNpBR/home1.jpg"
+      "image": "https://i.ibb.co/59Jj1kr/Family-Home-1.webp"
   },
   {
       "estate_title": "Cozy Cottage by the Lake",
@@ -21,7 +21,7 @@
       "area": "1500 sq ft",
       "location": "Lakefront",
       "facilities": ["living room", "fireplace", "porch"],
-      "image": "https://i.ibb.co/Y0G41gB/home2.jpg"
+      "image": "https://i.ibb.co/6bHDqQr/Lakefront-Cottage-2.webp"
   },
   {
       "estate_title": "Family Home with Pool",
@@ -33,7 +33,7 @@
       "area": "2800 sq ft",
       "location": "Suburban Neighborhood",
       "facilities": ["swimming pool", "patio", "garden"],
-      "image": "https://i.ibb.co/qCB4Prp/home3.jpg"
+      "image": "https://i.ibb.co/gVqr3t5/Poolside-Living-3.webp"
   },
   {
       "estate_title": "Rustic Countryside Retreat",
@@ -45,7 +45,7 @@
       "area": "2000 sq ft",
       "location": "Rural Area",
       "facilities": ["front porch", "garden", "barn"],
-      "image": "https://i.ibb.co/jf8BGv9/home4.jpg"
+      "image": "https://i.ibb.co/4FMhrVm/Country-Living-4.webp"
   },
   {
       "estate_title": "Modern Urban Townhouse",
@@ -57,7 +57,7 @@
       "area": "1800 sq ft",
       "location": "City Center",
       "facilities": ["living room", "rooftop terrace", "attached garage"],
-      "image": "https://i.ibb.co/3rLp6kG/townhouse1.jpg"
+      "image": "https://i.ibb.co/0CG0S3R/Urban-Living.jpg"
   },
   {
       "estate_title": "Quaint Townhouse in Historic District",
@@ -69,7 +69,7 @@
       "area": "1600 sq ft",
       "location": "Historic District",
       "facilities": ["living room", "patio", "community garden"],
-      "image": "https://i.ibb.co/7yqRXzx/townhouse2.jpg"
+      "image": "https://i.ibb.co/gJSL0j7/Historic-Charm.jpg"
   },
   {
       "estate_title": "Luxury Townhouse with River View",
@@ -81,7 +81,7 @@
       "area": "2200 sq ft",
       "location": "Waterfront",
       "facilities": ["river view", "balcony", "private dock"],
-      "image": "https://i.ibb.co/khSH2hv/townhouse3.jpg"
+      "image": "https://i.ibb.co/B4b94G5/Riverside-Living.jpg"
   },
   {
       "estate_title": "Townhouse with Courtyard Garden",
@@ -93,7 +93,8 @@
       "area": "1700 sq ft",
       "location": "Urban Suburb",
       "facilities": ["courtyard garden", "covered patio", "garage"],
-      "image": "https://i.ibb.co/0ZPpj4R/townhouse4.jpg"
+     "image": "https://i.ibb.co/Xpf10Dg/Garden-Oasis.jpg"
+
   },
   {
       "estate_title": "Modern City Apartment",
@@ -105,7 +106,7 @@
       "area": "1200 sq ft",
       "location": "Downtown",
       "facilities": ["open kitchen", "balcony", "fitness center"],
-      "image": "https://i.ibb.co/HnzrVfg/apartment1.jpg"
+      "image": "https://i.ibb.co/0nWnShL/City-Living.png"
   },
   {
       "estate_title": "Spacious Luxury Penthouse",
@@ -117,7 +118,7 @@
       "area": "3000 sq ft",
       "location": "Exclusive Neighborhood",
       "facilities": ["private terrace", "concierge service", "gym"],
-      "image": "https://i.ibb.co/mCZG3Fj/apartment2.jpg"
+     "image": "https://i.ibb.co/TKRTXkh/Luxury-Living.jpg"
   },
   {
       "estate_title": "Studio Apartment with City View",
@@ -129,7 +130,7 @@
       "area": "800 sq ft",
       "location": "Urban Center",
       "facilities": ["city view", "modern kitchenette", "shared amenities"],
-      "image": "https://i.ibb.co/dMQG5Hh/apartment3.jpg"
+      "image": "https://i.ibb.co/MV9545S/City-Skyline.webp"
   },
   {
       "estate_title": "Apartment with Riverfront Balcony",
@@ -141,7 +142,7 @@
       "area": "1500 sq ft",
       "location": "Riverbank",
       "facilities": ["river view balcony", "secure parking", "fitness center"],
-      "image": "https://i.ibb.co/7yKdtDP/apartment4.jpg"
+     "image": "https://i.ibb.co/59Jj1kr/Family-Home-1.webp"
   },
   {
       "estate_title": "Beachfront Villa",
@@ -153,7 +154,7 @@
       "area": "4000 sq ft",
       "location": "Seaside",
       "facilities": ["private pool", "beach access", "outdoor dining"],
-      "image": "https://i.ibb.co/wJtfjz2/vacation1.jpg"
+        "image": "https://i.ibb.co/Xpf10Dg/Garden-Oasis.jpg"
   },
   {
       "estate_title": "Mountain Cabin Getaway",
@@ -165,7 +166,7 @@
       "area": "2000 sq ft",
       "location": "Mountain Range",
       "facilities": ["fireplace", "deck", "hiking trails nearby"],
-      "image": "https://i.ibb.co/bRYX2Kd/vacation2.jpg"
+       "image": "https://i.ibb.co/gVqr3t5/Poolside-Living-3.webp"
   },
   {
       "estate_title": "Lake House with Dock",
@@ -177,7 +178,7 @@
       "area": "2500 sq ft",
       "location": "Lakeside",
       "facilities": ["lake view", "private dock", "outdoor patio"],
-      "image": "https://i.ibb.co/0tVhXG7/vacation3.jpg"
+     "image": "https://i.ibb.co/TKRTXkh/Luxury-Living.jpg"
   },
   {
       "estate_title": "Luxury Ski Chalet",
@@ -189,7 +190,7 @@
       "area": "3500 sq ft",
       "location": "Ski Resort",
       "facilities": ["ski-in/ski-out access", "hot tub", "private concierge"],
-      "image": "https://i.ibb.co/2YxjQ2J/vacation4.jpg"
+       "image": "https://i.ibb.co/4FMhrVm/Country-Living-4.webp"
   },
 
 
@@ -215,7 +216,7 @@
       "area": "1000 sq ft",
       "location": "Student District",
       "facilities": ["fitness center", "common room", "security"],
-      "image": "https://i.ibb.co/4FMhrVm/Country-Living-4.webp"
+       "image": "https://i.ibb.co/4FMhrVm/Country-Living-4.webp"
     },
     {
       "estate_title": "Student Co-Living Space",
